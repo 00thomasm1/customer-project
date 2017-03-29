@@ -1,0 +1,5 @@
+C:\Users\User\Documents\prog challenges\customer program\customer program\bin\Debug\customer program.exe.config
+C:\Users\User\Documents\prog challenges\customer program\customer program\obj\Debug\customer program.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\prog challenges\customer program\customer program\obj\Debug\customer_program.Form2.resources
+C:\Users\User\Documents\prog challenges\customer program\customer program\obj\Debug\customer_program.Resources.resources
+C:\Users\User\Documents\prog challenges\customer program\customer program\obj\Debug\customer program.vbproj.GenerateResource.Cache
